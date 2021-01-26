@@ -1,0 +1,23 @@
+{
+  "name": "quiz1",
+  "version": "1.0.0",
+  "main": "quiz1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karan-barot/quiz.git"
+  },
+  "bugs": {
+    "url": "https://github.com/karan-barot/quiz/issues"
+  },
+  "homepage": "https://github.com/karan-barot/quiz#readme",
+  "description": ""
+}
